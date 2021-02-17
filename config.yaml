@@ -18,8 +18,6 @@ menu:
       url: /about/
     - name: GitHub
       url: https://github.com/isoplinks
-    - name: Twitter
-      url: https://twitter.com/isop1
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
