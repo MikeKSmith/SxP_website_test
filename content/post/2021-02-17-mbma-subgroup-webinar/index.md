@@ -35,6 +35,8 @@ examples showing the impact it can have in drug development and other critical
 business decisions.
 
 ### Recording
+![Link to the recording](https://www.dropbox.com/s/s792znavolwn2np/MBMA%20Webinar.mp4?dl=0)
+
 <iframe width="560" height="315" src="https://www.dropbox.com/s/s792znavolwn2np/MBMA%20Webinar.mp4?dl=0" frameborder="0" allowfullscreen></iframe>
 
 ### Q&A
