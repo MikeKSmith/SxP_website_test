@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ISoP / ASA Statistics and Pharmacometrics (SxP) Special Interest Group (SIG)</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on ISoP / ASA Statistics and Pharmacometrics (SxP) Special Interest Group (SIG)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MBMA subgroup webinar</title>
+      <link>/2021/02/17/mbma-subgroup-webinar/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/02/17/mbma-subgroup-webinar/</guid>
+      <description>The Model-Based Meta-Analysis sub-Special Interest Group (MBMA sub-SIG) of the Statistics and Pharmacometrics Special Interest group (SxP SIG) held an &amp;ldquo;Introduction to MBMA&amp;rdquo; webinar on January 16th 2021.
+Abstract As landscapes for the treatment of many diseases have grown increasingly competitive and costs to conduct clinical trials have soared, it is critical to understand the landscape of available treatments, as well as the probability that a specific compound could compete successfully in this market.</description>
+    </item>
+    
+  </channel>
+</rss>
