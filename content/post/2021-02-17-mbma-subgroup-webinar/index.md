@@ -35,7 +35,7 @@ examples showing the impact it can have in drug development and other critical
 business decisions.
 
 ### Recording
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=snoeQYR1ErQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### Q&A
 ![Link to the Q&A material]()
